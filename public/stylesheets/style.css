@@ -1,0 +1,51 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+}
+body .stone {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+body .black { background-color: black; }
+body .col0 { left: 0px; }
+body .col1 { left: 10px; }
+body .col2 { left: 20px; }
+body .col3 { left: 30px; }
+body .col4 { left: 40px; }
+body .col5 { left: 50px; }
+body .col6 { left: 60px; }
+body .col7 { left: 70px; }
+body .col8 { left: 80px; }
+body .col9 { left: 90px; }
+body .col10 { left: 100px; }
+body .col11 { left: 110px; }
+body .col12 { left: 120px; }
+body .col13 { left: 130px; }
+body .col14 { left: 140px; }
+body .col15 { left: 150px; }
+body .col16 { left: 160px; }
+body .col17 { left: 170px; }
+body .col18 { left: 180px; }
+body .col19 { left: 190px; }
+body .row0 { top: 0px; }
+body .row1 { top: 10px; }
+body .row2 { top: 20px; }
+body .row3 { top: 30px; }
+body .row4 { top: 40px; }
+body .row5 { top: 50px; }
+body .row6 { top: 60px; }
+body .row7 { top: 70px; }
+body .row8 { top: 80px; }
+body .row9 { top: 90px; }
+body .row10 { top: 100px; }
+body .row11 { top: 110px; }
+body .row12 { top: 120px; }
+body .row13 { top: 130px; }
+body .row14 { top: 140px; }
+body .row15 { top: 150px; }
+body .row16 { top: 160px; }
+body .row17 { top: 170px; }
+body .row18 { top: 180px; }
+body .row19 { top: 190px; }
